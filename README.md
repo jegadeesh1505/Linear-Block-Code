@@ -87,6 +87,6 @@ add = err + rc
 print(f"The correct codeword is : " + " " .join(map(str,add)))
 ```
 # Output Waveform
-03
+
 # Results
 Thus the Linear Block Code is verified using Python Program in Google Colab 
