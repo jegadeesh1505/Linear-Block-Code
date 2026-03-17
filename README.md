@@ -86,7 +86,9 @@ print(f"The error postion is : " + " ".join(map(str, err)))
 add = err + rc
 print(f"The correct codeword is : " + " " .join(map(str,add)))
 ```
-# Output Waveform
+# Output 
+
+<img width="337" height="588" alt="Screenshot 2026-03-13 134156" src="https://github.com/user-attachments/assets/7b2e21d1-39a0-4b8a-8e90-5226bfb98823" />
 
 # Results
 Thus the Linear Block Code is verified using Python Program in Google Colab 
